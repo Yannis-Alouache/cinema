@@ -1,0 +1,21 @@
+.cinema-schedules {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+.cinema-schedules h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.cinema-schedules ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.cinema-schedules li {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
